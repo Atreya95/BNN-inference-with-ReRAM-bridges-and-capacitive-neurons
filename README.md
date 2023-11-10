@@ -13,3 +13,5 @@ conda install python=3.7 pytorch=1.4 torchvision cudatoolkit
 The data folder would store the dataset for the MNIST and CIFAR-10 datasets, and the error_all stores the error probability values calculated for each layer of both networks using the notebook "Error_prob_calculation."
 
 The fully connected (MLP) and Convolutional neural network (ConvNet) implementations are on two separate notebooks.
+
+The trained ConvNet model "VGG_trained_model" can be found at https://www.dropbox.com/scl/fi/v75ieokbdrlh7d6o764gj/VGG_trained_model?rlkey=k2ib7y2l2grvc46ldzf3mdv66&dl=0 
